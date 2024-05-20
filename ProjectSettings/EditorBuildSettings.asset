@@ -8,4 +8,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GameplayScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
-  m_configObjects: {}
+  - enabled: 1
+    path: Assets/Scenes/QuitScene.unity
+    guid: ef802ec2b9ad56e40bb0421b40140fa1
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: a528d8b9a6b8a784d9c498ae8a5901dd, type: 2}
